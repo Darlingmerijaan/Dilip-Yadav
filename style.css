@@ -1,0 +1,67 @@
+.mydiv{
+    width:1000PX;
+    height:100px;
+    background-color:lightblue;
+    text-align:center;
+    border:5px solid orange;
+    font-family:sans-serif;
+    margin:0px auto;
+    
+    
+}
+body{
+    background-color: peachpuff;
+}
+
+.r1{
+    height:50px;
+    width:1000px;
+    background-color: rgb(88, 88, 122);
+    font-size: 2em;
+    text-align:center;
+    font-weight: bold;
+}
+ .r2c{
+    height:50px;
+    width:250px;
+    background-color: pink;
+    float:left;
+    font-size: 1.5em;
+    margin:0px auto;
+
+}
+.r2c:hover{
+    background-color: green;
+    color:yellow;
+}
+.r2{
+    height:250px;
+    width:1000px;
+    background-color: violet;
+    border: 5px solid green;
+    margin:0px auto;
+}
+.r2c1{
+    height:250px;
+    width:700px;
+    float:right;
+    background-color: aqua;
+    
+}
+.r2c2{
+    text-align:center;
+    font-size: 1.5em;
+    height:62.5px;
+    width:300px;
+    float:left;
+    background-color:brown;
+
+}
+.r3{
+    height:300px;
+    width:1000px;
+    background-color:green;
+    border:green 5px solid;
+    margin:0px auto;
+
+}
